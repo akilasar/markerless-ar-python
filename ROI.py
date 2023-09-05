@@ -1,7 +1,3 @@
-'''
-Author: Zhaorui Chen 2017
-
-'''
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
